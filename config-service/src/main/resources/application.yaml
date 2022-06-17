@@ -6,6 +6,6 @@ spring:
       server:
         git:
           default-label: feature/springBoot
-          uri: https://github.com/angelmillan123/courseSB
+          uri: https://github.com/angelmillan123/courseSB.git
           search-paths: config-data  application:
-    name: config-service        
+    name: config-service
